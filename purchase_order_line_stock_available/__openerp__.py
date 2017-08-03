@@ -19,7 +19,7 @@
 
 {
     "name": "Purchase order line stock available",
-    "version": "1.0",
+    "version": "9.0.0.1.0",
     "author": "OdooMRP team,"
               "AvanzOSC,"
               "Serv. Tecnol. Avanzados - Pedro M. Baeza",
@@ -31,5 +31,5 @@
     "category": "Custom Modules",
     "data": ['views/purchase_view.xml',
              ],
-    'installable': False
+    'installable': True
 }
